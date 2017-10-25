@@ -8,4 +8,4 @@ More information will come here, but for now, just google it....
 
 ## Try it out
 
-You can check out the results of the demo [here]("http://stump.one/jsca/")
+You can check out the results of the demo [here](http://stump.one/jsca/)
