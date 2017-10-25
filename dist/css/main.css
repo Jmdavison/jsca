@@ -1,0 +1,35 @@
+html {}
+
+body {
+    font-family: 'Inconsolata', monospace;    
+    background-color: rgba(245, 245, 245, 0.4);
+    text-align: center;
+    height: 100%;
+    font-size:.93em; 
+}
+
+#download {
+    display:none;
+}
+
+#ruleNumber{
+    width: 120px;
+    padding:4px;
+}
+
+#wrapper {
+    width: 75%;
+    height: 700px;
+    margin: 20px auto;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    text-align: center;
+}
+
+#frame {
+    margin: 0 auto;
+    display:block;
+    width: 3500px;
+    height: 9000px;
+    background: #581845;
+}

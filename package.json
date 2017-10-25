@@ -1,0 +1,23 @@
+{
+  "name": "jsca",
+  "version": "1.0.0",
+  "description": "Javascript  cellular automaton with HTML5 canvas",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc && node index.js",
+    "dev": "nodemon -e ts  --exec \"npm run compile\""
+  },
+  "keywords": [
+    "cellular",
+    "automata"
+  ],
+  "author": "Jacob Davison",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.12.1",
+    "typescript": "^2.5.3"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
