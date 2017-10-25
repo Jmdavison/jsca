@@ -3,7 +3,7 @@
  *             JQ (JakeQuery)
  * -------------------------------------------
  * 
- * Jacob's pretty little jqueryLite library :)
+ * Jacob's lil jQuery lite
  * 
  * Only what I need and only what I use.
  * This will grow overtime.
